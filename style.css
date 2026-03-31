@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+
+input{
+    text-align: center;
+}
+button{
+    background-color: aqua;
+    color: white;
+    border: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 150px;
+    height: 30px;
+}
+
+button:hover{
+    background-color: aquamarine;
+    color: black;
+}
+.Nota1{
+    background-color: aquamarine;
+    color: white;
+}
+
+#NotaM1,
+#NotaM2{
+    background-color: aquamarine;
+    color: black;
+    border: 0;
+}
